@@ -1,1 +1,1 @@
-# codex
+fais moi un mono repo avec un back en cms headless basé sur strapi , le front avec react vite . j'aimerais quand tu me créé une section about avec les infos sur l'artiste et sa photo , une section galerie avec ces oeuvres , une section avec l'actualité où il y aura les posts pour montrer les evenemtns , les expos etc et une section contact . c'est un artiste qui s'appel flavien broadway , photographe expérimental . j'aimerais biensur que le back fournisse les infosdu front et permette donc à mon client de mettre à jour son site . 
