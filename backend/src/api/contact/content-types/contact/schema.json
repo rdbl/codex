@@ -3,7 +3,7 @@
   "collectionName": "contact",
   "info": {
     "singularName": "contact",
-    "pluralName": "contact",
+    "pluralName": "contacts",
     "displayName": "Contact"
   },
   "options": {
