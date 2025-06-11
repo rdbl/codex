@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "news",
+  "info": {
+    "singularName": "news",
+    "pluralName": "news-items",
+    "displayName": "News"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {"type": "string"},
+    "content": {"type": "richtext"},
+    "event_date": {"type": "date"}
+  }
+}
